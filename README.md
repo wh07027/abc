@@ -18,3 +18,15 @@
 
 部署完成后，会生成一个内部地址：
 或者绑定域名可公开访问地址
+
+## 📸 
+
+![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/1.png)
+![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/2.png)
+![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/3.png)
+![图片4](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/4.png)
+![图片5](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/5.png)
+![图片6](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/6.png)
+![图片7](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/7.png)
+![图片8](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/8.png)
+![图片9](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/9.png)
